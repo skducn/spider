@@ -1,0 +1,7 @@
+{
+  "runAll.py::runAll::testAuth_0": true,
+  "runAll.py::runAll::testlogin_0": true,
+  "runAll.py::runAll::testlogin_1": true,
+  "runAll.py::runAll::testlogin_2": true,
+  "runAll.py::runAll::testlogout_0": true
+}

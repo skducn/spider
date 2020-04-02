@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Downloads/51/Project/django/.idea/django.iml" filepath="$USER_HOME$/Downloads/51/Project/django/.idea/django.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/51/Project/myDjango/.idea/myDjango.iml" filepath="$USER_HOME$/Downloads/51/Project/myDjango/.idea/myDjango.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spider.iml" filepath="$PROJECT_DIR$/.idea/spider.iml" />
     </modules>
   </component>
